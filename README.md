@@ -1,3 +1,3 @@
 ### CollectionViewLayout
  
-![Alt text](/preview.png, "预览")
+![预览](./preview.png)
